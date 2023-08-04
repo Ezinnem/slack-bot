@@ -1,2 +1,2 @@
 # slack-bot
-A slack messaging bot developed using Golang
+A Slack messaging bot developed using Golang and Slack API
